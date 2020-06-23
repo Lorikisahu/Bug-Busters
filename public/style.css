@@ -1,0 +1,34 @@
+
+body{
+    margin: 0;
+}
+
+.contacts{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contact-card > img {
+    height: 200px;
+    width:200px;
+    
+}
+
+.contact-card > a {
+color:purple;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 40px;
+
+}
+
+.contact-card > p {
+    color:black;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 20px;
+}
+
+.contact-card > p {
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
